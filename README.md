@@ -65,3 +65,26 @@ When I'm not coding, I enjoy a wide range of story-driven adventures:
 - 🧩 Solving puzzles, riddles, and logic problems
 
 I believe creativity, empathy, and curiosity are superpowers in tech – and I try to bring those into every project I work on.
+
+---
+
+### 📊 My Dev Stats
+
+<div align="center">
+
+  <img src="https://www.codewars.com/users/Franziska%20H/badges/large" width="300"/>
+
+  <br><br>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FranziskaHaisch&show_icons=true&theme=codeSTACKr&count_private=true&hide=stars" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranziskaHaisch&layout=compact&theme=codeSTACKr" />
+      </td>
+    </tr>
+  </table>
+
+</div>
